@@ -1,10 +1,10 @@
 {
-    "author": "C Programming With Pebble OS",
+    "author": "jipping+c@hope.edu",
     "dependencies": {},
     "keywords": [],
-    "name": "project-3.1",
+    "name": "project-2.1",
     "pebble": {
-        "displayName": "Project 3.1",
+        "displayName": "Project 2.1",
         "enableMultiJS": false,
         "messageKeys": {},
         "projectType": "native",
@@ -12,11 +12,7 @@
             "media": []
         },
         "sdkVersion": "3",
-        "targetPlatforms": [
-            "basalt",
-            "chalk"
-        ],
-        "uuid": "5501fa50-4196-4313-84ff-d0b9f4800347",
+        "uuid": "0bebdcbf-fc00-444e-b352-ca31ff34b905",
         "watchapp": {
             "watchface": false
         }
